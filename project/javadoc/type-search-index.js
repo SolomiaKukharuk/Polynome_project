@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"numbers","l":"BigUnsigned"},{"p":"equations","l":"EquationSolver"},{"p":"numbers","l":"Numeric"},{"p":"polynomial","l":"Polynome"},{"p":"numbers","l":"Rational"},{"p":"numbers","l":"Unsigned"}];updateSearchResults();

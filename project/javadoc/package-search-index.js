@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"equations"},{"l":"numbers"},{"l":"polynomial"}];updateSearchResults();
